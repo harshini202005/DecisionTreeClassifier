@@ -1,0 +1,16 @@
+High School GPA,ExtraCuriccular,Parental income,Hours studied,Entrance Exam,Distance from college(km),Internet availability,Result
+5.4,3,200000,5,Poor,6,No,Fail
+5.8,4,250000,6,Average,7,No,Fail
+6.1,5,300000,NaN,Average,3,No,Fail
+6.9,5,375000,8,Poor,3,Yes,Fail
+7,3,278000,9,Average,10,No,Pass
+7.4,4,400000,9,Good,8,Yes,Pass
+7.6,5,700000,10,Good,4,Yes,Pass
+8.22,6,560000,NaN,Good,2,Yes,Pass
+8.24,6,450000,13,Average,4,Yes,Pass
+8.9,2,100000,13,Good,24,Yes,Pass
+9.15,NaN,570000,15,Average,22,Yes,Pass
+9.18,7,340000,16,Good,1,No,Pass
+9.24,6,247000,17,Good,3,No,Pass
+NaN,5,890000,18,Good,5,Yes,Pass
+9.78,40,200000,19,Good,2,No,Pass
